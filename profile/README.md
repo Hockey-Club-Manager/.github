@@ -12,7 +12,7 @@
 * [More info about project](#more-info-about-project)
 
 ## Idea
-We are creating a hockey managers simulator with a large number of actions. All the objects will be presented as NFT, and we going to integrate crypto-professes as game mechanics. At the same time, we will do PvP and PvE matches with a large number of game actions.
+We are creating a hockey managers simulator with a large number of actions. All the objects will be presented as NFT, and we going to integrate crypto-processes as game mechanics. At the same time, we will do PvP and PvE matches with a large number of game actions.
 
 ![Aleksey Pitenko Kostiantyn Ostapenko, Sergey Kalugin](https://user-images.githubusercontent.com/63261287/153757768-4b69d2e1-62fa-4944-9172-08f7c3ebac11.jpg)
 The idea came up in December 2021, while preparing for a hackathon from Near. At this hackathon, we received a prize and decided to move on. There were three of us, since that time our team has grown more than 4 times. We have not only developers but designer, 2D/3D artists, game and sound designer. 
@@ -27,7 +27,7 @@ Game objects:
 Game actions:
 * Team management
 * Cards trading
-* Match 
+* PvP and PvE matches
 
 Working through the game mechanics, we largely focused on card tactical and strategic games. Users will have the opportunity to manage game in all aspects, improve their players and team in different ways, like stacking player NFTs, merging player and equipment NFTs, lending or borrowing NFTs, and so on. 
 
