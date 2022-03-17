@@ -6,10 +6,18 @@
 </p>
 
 ### Table of contents
+* [Project](#project)
 * [Idea](#idea)
 * [Gameplay](#gameplay)
 * [How to earn](#how-to-earn)
 * [More info about project](#more-info-about-project)
+
+## Project
+### Game demo:
+https://main.dxx2473v7ql2i.amplifyapp.com/
+<br>
+### Landing page:
+https://nft-hockey.github.io/
 
 ## Idea
 We are creating a hockey managers simulator with a large number of actions. All the objects will be presented as NFT, and we going to integrate crypto-processes as game mechanics. At the same time, we will do PvP and PvE matches with a large number of game actions.
