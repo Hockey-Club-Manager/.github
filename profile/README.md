@@ -14,7 +14,7 @@
 
 ## Project
 ### Game demo:
-https://main.dxx2473v7ql2i.amplifyapp.com/
+https://nft-hockey.vercel.app/
 <br>
 ### Landing page:
 https://nft-hockey.github.io/
