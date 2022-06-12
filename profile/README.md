@@ -13,9 +13,6 @@
 * [More info about project](#more-info-about-project)
 
 ## Project
-### Game demo:
-https://nft-hockey.vercel.app/
-<br>
 ### Landing page:
 https://nft-hockey.github.io/
 
