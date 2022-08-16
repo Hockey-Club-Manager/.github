@@ -45,7 +45,7 @@ Matches could be PvP or PvE, leagues and tournaments will be provided. In-match 
 There are two ways of earning money in our game. By winning games or by trading players. You can collect the roaster of your dream, practice hard, think strategically, and win against opponents. Or you can buy players, improve them and sell for a higher price. And of course, you can do both.
 
 ## More info about project
-<a href="https://discord.gg/Zhxd3QaJ" target="_blank">Discord</a><br>
+<a href="https://discord.gg/XSNp5gnzMR" target="_blank">Discord</a><br>
 <a href="http://twitter.com/hcm_game" target="_blank">Twitter</a><br>
 <a href="https://t.me/hcm_game" target="_blank">Telegram</a><br>
 <a href="https://www.instagram.com/hcm_game/" target="_blank">Instagram</a><br>
