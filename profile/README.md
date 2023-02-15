@@ -2,9 +2,8 @@
 ## Free-to-play, play-to-earn, NFT-based, fantasy hockey managers' game, based on Near Protocol
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/63261287/184758579-448c1efc-02dc-432a-bf60-1716ea5936a8.svg" />
+  <img src="https://user-images.githubusercontent.com/63261287/219210304-6d318c13-9600-4072-b070-da49de183efa.svg"/>
 </p>
-
 
 ### Table of contents
 * [Project](#project)
